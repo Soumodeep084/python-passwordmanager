@@ -14,6 +14,20 @@ A secure and user-friendly **Password Manager** built with **Python**, **CustomT
 
 ---
 
+### Screenshots:
+Here are some of the screenshots of the project:
+
+![image](https://github.com/user-attachments/assets/05b2cd97-6720-4670-879a-b2556336ea96)
+
+![image](https://github.com/user-attachments/assets/b28320f4-44ba-4fa6-b769-4aa131170ef6)
+
+![image](https://github.com/user-attachments/assets/c25e403e-26f8-47a8-ab38-8d85678e5488)
+
+![image](https://github.com/user-attachments/assets/a4087b04-d62f-49ca-aa15-de2c5f8d680c)
+
+![image](https://github.com/user-attachments/assets/3918b657-3670-4fbf-803a-57933008c763)
+
+
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repository
