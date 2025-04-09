@@ -1,0 +1,31 @@
+PasswordManager/
+│── venv/                 # Virtual Environment
+│── main.py               # Entry point of the application
+│
+├── backend/              # Backend logic
+│   ├── db.py             # MySQL connection & queries
+│   ├── auth.py           # User Authentication (Login, Register, OTP)
+│   ├── email_service.py  # Send OTP emails
+│   ├── password_manager.py # Securely stores/retrieves passwords
+│   ├── utils.py          # Helper functions (hashing, validation)
+│
+├── frontend/             # GUI (Tkinter & CustomTkinter)
+│   ├── login.py          # Login Window
+│   ├── register.py       # Registration Window
+│   ├── otp_verification.py # OTP Verification Window
+│   ├── main_dashboard.py # Password Manager UI
+│   ├── theme.py          # UI styles and themes
+│
+├── config/               # Configurations
+│   ├── settings.py       # Email & Database Configurations
+│
+├── assets/               # Store images, icons, UI assets
+│   ├── logo.png          # App logo
+│   ├── icons/            # Icons for UI
+│
+├── requirements.txt      # Dependencies list
+│── README.md             # Project Documentation
+
+
+Run the following command to add the current directory to PYTHONPATH:
+set PYTHONPATH=%cd%

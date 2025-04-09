@@ -1,0 +1,27 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore build and distribution directories
+build/
+dist/
