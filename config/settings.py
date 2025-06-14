@@ -1,25 +1,25 @@
 # Database configuration
 DB_CONFIG = {
-    "host": "localhost",
-    "user": "root",
+    "host": "<host>",
+    "user": "",
     "password": "",
     "database": "python_passwordmanager"
 }
 
 # Email configuration
 EMAIL_CONFIG = {
-    "sender_email": "your_email@example.com",
-    "sender_password": "your_email_password",
-    "smtp_server": "smtp.gmail.com",            # For Gmail
-    "smtp_port": 2525
+    "sender_email": "",
+    "sender_password": "",
+    "smtp_server": "",            # For Gmail
+    "smtp_port": 
 }
 
 # Mailtrap.io SMTP configuration
 MAILTRAP_CONFIG = {
-    "smtp_server": "sandbox.smtp.mailtrap.io",                  # Mailtrap SMTP server
-    "smtp_port": 2525,                                          # Mailtrap SMTP port
-    "sender_email": "d1ad7162d90147",   # Sender email (can be anything)
-    "sender_password": "bc53db5acbc399"                 # Mailtrap password
+    "smtp_server": "",                  # Mailtrap SMTP server
+    "smtp_port": ,                                          # Mailtrap SMTP port
+    "sender_email": "",   # Sender email (can be anything)
+    "sender_password": ""                 # Mailtrap password
 }
 
 
